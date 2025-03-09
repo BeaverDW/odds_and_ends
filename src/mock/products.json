@@ -2,163 +2,130 @@
   {
     "productId": 1,
     "code": "0001",
-    "name": "맥세이프 핸드폰 거치대",
-    "description": "맥세이프 자석으로 어디든 걸어 사용 가능!",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250206/720808817fc30.png",
-    "linkURL": "https://link.coupang.com/a/cdnlcW"
+    "name": "곰곰 한입 떡갈비 (냉동)",
+    "description": "육즙 터지는 간편 한끼 완성",
+    "thumbnailURL": "/products/products1.png",
+    "linkURL": "https://link.coupang.com/a/ch1C50"
   },
   {
     "productId": 2,
     "code": "0002",
-    "name": "배게 커버",
-    "description": "간편히 교체 가능한 배게 커버 (베게 커버 베개 커버)",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250206/cc712b5c02615.png",
-    "linkURL": "https://link.coupang.com/a/cdnlcW"
+    "name": "연평도 알배기 간장게장 3kg",
+    "description": "집에서 즐기는 극강의 밥도둑",
+    "thumbnailURL": "/products/products2.png",
+    "linkURL": "https://link.coupang.com/a/ch1DXA"
   },
   {
     "productId": 3,
     "code": "0003",
-    "name": "온수기",
-    "description": "찬물을 기다림 없이 바로 끓여먹는 온수기!",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250206/ce0c95f84f67d.png",
-    "linkURL": "https://link.coupang.com/a/cdnidE"
+    "name": "매일유업 가성비 연유",
+    "description": "달콤한 풍미로 요리의 변신",
+    "thumbnailURL": "/products/products3.png",
+    "linkURL": "https://link.coupang.com/a/ch1EFB"
   },
   {
     "productId": 4,
     "code": "0004",
-    "name": "배수구 덮개",
-    "description": "물이 닿으면 열리고 자동으로 닫히는 배수구 덮개",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250206/7ffffd5a31d88.png",
-    "linkURL": "https://link.coupang.com/a/cdmTYi"
+    "name": "만능 탐사 니트릴장갑 100개입",
+    "description": "어떤 작업도 안전하게 100개",
+    "thumbnailURL": "/products/products4.png",
+    "linkURL": "https://link.coupang.com/a/ch1FZJ"
   },
   {
     "productId": 5,
     "code": "0005",
-    "name": "전자레인지 덮개",
-    "description": "음식하고 전자레인지에 천장에 부착하면 끝!",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250206/d362f95c532b1.png",
-    "linkURL": "https://link.coupang.com/a/cdmS0J"
+    "name": "만능 오븐크리너 골드 500ml",
+    "description": "기름때 한방에 해결사 세정력",
+    "thumbnailURL": "/products/products5.png",
+    "linkURL": "https://link.coupang.com/a/ch1G2R"
   },
   {
     "productId": 6,
     "code": "0006",
-    "name": "나무 냄비 받침",
-    "description": "나무처럼 쌓아 사용하는 냄비 받침",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250206/2caf94ca36117.png",
-    "linkURL": "https://link.coupang.com/a/cdnlcW"
+    "name": "대박오븐 기름때 클리너 18.75L",
+    "description": "업소급 찌든때 완벽 제거 보장",
+    "thumbnailURL": "/products/products6.png",
+    "linkURL": "https://link.coupang.com/a/ch1HFy"
   },
   {
     "productId": 7,
     "code": "0007",
-    "name": "의류 건조기",
-    "description": "접어서 휴대 사용이 가능한 미니 건조기",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250206/85ff68f69c285.png",
-    "linkURL": "https://link.coupang.com/a/cdmfwH"
+    "name": "C타입 케이블 + 고속충전기",
+    "description": "초고속 충전의 완벽한 파트너",
+    "thumbnailURL": "/products/products7.png",
+    "linkURL": "https://link.coupang.com/a/ch1Juy"
   },
   {
     "productId": 8,
     "code": "0008",
-    "name": "핸드폰 거치대",
-    "description": "탁상용 접이식 휴대폰 태블릿 테블릿 거치",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20241210/e3e657fd4aeb5.png",
-    "linkURL": "https://link.coupang.com/a/cdmhdt"
+    "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+    "description": "향기로운 부드러움 30m 롤타입",
+    "thumbnailURL": "/products/products8.png",
+    "linkURL": "https://link.coupang.com/a/cigOKn"
   },
   {
     "productId": 9,
     "code": "0009",
-    "name": "칫솔 살균기",
-    "description": "손을 대면 열리고 닫히고, 무선 사용까지!",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250206/0ae87f22c2287.png",
-    "linkURL": "https://link.coupang.com/a/cdmg1v"
+    "name": "곰곰 후레쉬 모짜렐라 보코치니",
+    "description": "요리의 품격 높이는 치즈의 왕",
+    "thumbnailURL": "/products/products9.png",
+    "linkURL": "https://link.coupang.com/a/cigO0y"
   },
   {
     "productId": 10,
     "code": "0010",
-    "name": "자석 케이블",
-    "description": "사용 후 두면 알아서 정리되는 케이블",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250205/bd592c7efe3b2.png",
-    "linkURL": "https://link.coupang.com/a/cdcwvG"
+    "name": "곰곰 한돈 삼겹살 구이용",
+    "description": "국내산 프리미엄 육즙의 향연",
+    "thumbnailURL": "/products/products10.png",
+    "linkURL": "https://link.coupang.com/a/cigPcU"
   },
   {
     "productId": 11,
     "code": "0011",
-    "name": "핑크 세제",
-    "description": "찌든때 제거가 가능한 세정제로 폼 방식으로 뿌려 욕실 청소가 가능",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20241005/aecb8595c5aec.png\"",
-    "linkURL": "https://link.coupang.com/a/cdcxhX"
+    "name": "곰곰 오징어젓",
+    "description": "깊은 감칠맛의 최고급 반찬왕",
+    "thumbnailURL": "/products/products11.png",
+    "linkURL": "https://link.coupang.com/a/cigPrb"
   },
   {
     "productId": 12,
     "code": "0012",
-    "name": "지퍼백",
-    "description": "당기면 늘어나는 지퍼백으로 크기에 맞게 늘려 사용 가능!",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250204/de1bf29d11424.png",
-    "linkURL": "https://link.coupang.com/a/cc1HOe"
+    "name": "곰곰 창난젓",
+    "description": "짭쪼름한 밥도둑의 정점 경험",
+    "thumbnailURL": "/products/products12.png",
+    "linkURL": "https://link.coupang.com/a/cigPwu"
   },
   {
     "productId": 13,
     "code": "0013",
-    "name": "충전 케이블",
-    "description": "자석으로 부착해 사용하고, 90도 회전까지!",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250204/242cd6418dd6b.png",
-    "linkURL": "https://link.coupang.com/a/cc1IQO"
+    "name": "드릴펑 무균무때",
+    "description": "막힌 배수구를 한번에 뻥뚫리",
+    "thumbnailURL": "/products/products13.png",
+    "linkURL": "https://link.coupang.com/a/cigPFJ"
   },
   {
     "productId": 14,
     "code": "0014",
-    "name": "옷걸이",
-    "description": "무엇이든 착착 붙이는 옷걸이로 미끌림 없는 옷보관과 라운딩 처리로 어깨뿔까지 방지해요",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20240815/5c586311f9659.png",
-    "linkURL": "https://link.coupang.com/a/cc1Jsi"
+    "name": "휴롬 착즙기",
+    "description": "영양소 그대로 담아내는 명품",
+    "thumbnailURL": "/products/products14.png",
+    "linkURL": "https://link.coupang.com/a/cigPWR"
   },
   {
     "productId": 15,
     "code": "0015",
-    "name": "스마트워치",
-    "description": "무선 이어폰 에어팟이 들어있는 워치",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250203/0691d644feda4.png",
-    "linkURL": "https://link.coupang.com/a/ccRbDt"
+    "name": "딜리조이 소중한 우리쌀",
+    "description": "햅쌀의 신선함을 4kg 소포장",
+    "thumbnailURL": "/products/products15.png",
+    "linkURL": "https://link.coupang.com/a/cigP30"
   },
   {
     "productId": 16,
     "code": "0016",
-    "name": "화장품 공병",
-    "description": "펌핑하면 진공으로 위생적인 사용이 가능",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250203/52dcd0062bd66.png",
-    "linkURL": "https://link.coupang.com/a/ccRb8b"
-  },
-  {
-    "productId": 17,
-    "code": "0017",
-    "name": "가위",
-    "description": "레이저가 나와 줄자가 필요 없는 가위",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250203/d0d206fba9948.png",
-    "linkURL": "https://link.coupang.com/a/ccRcGe"
-  },
-  {
-    "productId": 18,
-    "code": "0018",
-    "name": "비누 디스펜서",
-    "description": "고체 비누를 물 없이 가루로 갈아 위생적으로 사용 가능",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250202/5d17a9a243320.png",
-    "linkURL": "https://link.coupang.com/a/ccF7AO"
-  },
-  {
-    "productId": 19,
-    "code": "0019",
-    "name": "말아쓰는 멀티탭",
-    "description": "사용할때 롤러를 당겨 전원 선을 뽑고 다시 감을 수 있어 보관까지 간편",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20240815/e8f05adb62c68.png",
-    "linkURL": "https://link.coupang.com/a/ccF5j8"
-  },
-  {
-    "productId": 20,
-    "code": "0020",
-    "name": "충전식 건전지",
-    "description": "c타입 케이블로 충전이 가능한 충전지",
-    "thumbnailURL": "https://cdn.imweb.me/thumbnail/20250201/46ae0979d2c52.png",
-    "linkURL": "https://link.coupang.com/a/ccuKtl"
+    "name": "셰프초이스 칼집 돼지왕구이",
+    "description": "전문 셰프의 특제 양념 비법",
+    "thumbnailURL": "/products/products16.png",
+    "linkURL": "https://link.coupang.com/a/cigQaY"
   }
-
 ]
 

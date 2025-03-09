@@ -2,17 +2,20 @@ import data from '@/mock/products.json'
 import {Product} from "@/types";
 import ProductCard from "@/components/product-card";
 import {Metadata} from "next";
+import RandomProducts from '@/components/random-products';
 
 const products: Product[] = data;
-const shuffledProducts = [...products].sort(() => Math.random() - 0.5);
 
 export const metadata : Metadata = {
-    title : "생활하는 남자",
-    description: "어디서 생활하냐?",
+    title : "잡것을 리뷰합니다",
+    description: "이 세상 모든 잡것들을 리뷰합니다",
+    icons: {
+        icon: '/icon.ico'
+    },
     openGraph: {
-        title: "생활하는 남자",
-        description: "어디서 생활하냐?",
-        images : ['/ys.jpeg']
+        title: "잡것을 리뷰합니다",
+        description: "이 세상 모든 잡것들을 리뷰합니다",
+        images : ['/openGraph.jpg']
     }
 }
 
@@ -26,12 +29,7 @@ export default function Page() {
                 </div>
             </section>
             <hr/>
-            <section className={`flex flex-col gap-12`}>
-                <h1 className={`text-center text-2xl font-bold`}>⚡️이런 상품은 어떠세요?</h1>
-                <div className={`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 my-4`}>
-                    {shuffledProducts.map((product) => <ProductCard key={product.productId} {...product}/>)}
-                </div>
-            </section>
+            <RandomProducts products={products} />
         </div>
     );
 }

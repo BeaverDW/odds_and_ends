@@ -6,12 +6,15 @@ import {Metadata} from "next";
 const products: Product[] = data;
 
 export const metadata : Metadata = {
-    title : "생활하는 남자",
-    description: "어디서 생활하냐?",
+    title : "잡것을 리뷰합니다",
+    description: "이 세상 모든 잡것들을 리뷰합니다",
+    icons: {
+        icon: '/icon.ico'
+    },
     openGraph: {
-        title: "생활하는 남자",
-        description: "어디서 생활하냐?",
-        images : ['/ys.jpeg']
+        title: "잡것을 리뷰합니다",
+        description: "이 세상 모든 잡것들을 리뷰합니다",
+        images : ['/openGraph.jpg']
     }
 }
 

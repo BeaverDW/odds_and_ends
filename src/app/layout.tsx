@@ -8,6 +8,11 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="ko">
+        <head>
+            <link rel="icon" href="/icon.ico" />
+            <link rel="shortcut icon" href="/icon.ico" />
+            <link rel="apple-touch-icon" href="/icon.ico" />
+        </head>
         <body className={`font-serif text-[#222831] text-sm lg:text-base`}>
         <div className={`container mx-auto relative`}>
             <header className={`py-8 sticky top-0 left-0 bg-white z-10`}>
@@ -19,7 +24,7 @@ export default function RootLayout({
                     </div>
                     <Link href={'/'}>
                         <div className={`size-12 rounded-full overflow-hidden`}>
-                            <img src="/logo.webp" alt="logo image"/>
+                            <img src="/profile.jpg" alt="logo image"/>
                         </div>
                     </Link>
                 </div>
@@ -33,9 +38,9 @@ export default function RootLayout({
             <div className={`container mx-auto`}>
                 <footer>
                     <div className={`flex justify-between items-center`}>
-                        <Link href={`mailto:example@example.com`}>
+                        <Link href={`mailto:sinyseok7@gmail.com`}>
                             <h4 className={`font-bold text-lg`}>🙋‍♂️ 비즈니스 제안</h4>
-                            <p className={`font-semibold`}>📮 example@example.com</p>
+                            <p className={`font-semibold`}>📮 sinyseok7@gmail.com</p>
                         </Link>
                         <div className={`flex gap-6 [&>svg]:size-[30px]`}>
                             <svg className="bi bi-youtube size-[30px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
