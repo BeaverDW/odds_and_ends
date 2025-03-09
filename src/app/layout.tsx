@@ -8,11 +8,6 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="ko">
-        <head>
-            <link rel="icon" href="/icon.ico" />
-            <link rel="shortcut icon" href="/icon.ico" />
-            <link rel="apple-touch-icon" href="/icon.ico" />
-        </head>
         <body className={`font-serif text-[#222831] text-sm lg:text-base`}>
         <div className={`container mx-auto relative`}>
             <header className={`py-8 sticky top-0 left-0 bg-white z-10`}>
