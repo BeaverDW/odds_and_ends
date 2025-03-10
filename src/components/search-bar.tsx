@@ -2,6 +2,7 @@
 
 import {ChangeEvent, useState} from "react";
 import {useRouter} from "next/navigation";
+import SnsIcons from "@/components/sns-icons";
 
 export default function SearchBar() {
 
@@ -32,6 +33,9 @@ export default function SearchBar() {
                 시청한 영상은 내돈내산 물건 ❤️<br/>
                 추후 쿠팡 파트너스 활동으로 일정액의 수수료를 제공 받습니다.
             </p>
+            <div className={`mx-auto`}>
+                <SnsIcons/>
+            </div>
             <nav className={`flex flex-col md:flex-row gap-3`}>
                 <select className={`border border-[#EEEEEE] rounded-xl outline-[#00ADB5]`} name="" id=""
                         value={type}
